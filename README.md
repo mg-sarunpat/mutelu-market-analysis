@@ -130,7 +130,7 @@ The charts below tell the complete story:
 
 Here's the thing: I scraped 6–7 top-performing listings per category,so the sample sizes aren't consistent across products. Some categories had more listings with data than others, so raw revenue totals alone would be misleading. To handle this fairly, I use two normalization techniques:
 
-**Average Revenue per Listing (ARPL):** Instead of just adding up all sales, I calculate the mean revenue per product. This tells you which categories actually perform best on a per-listing basis, regardless of how many items I scraped. A category with ฿2M from 6 listings beats ฿1.5M from 10 listings.
+**Average Revenue per Listing (ARPL):** Instead of just adding up all sales, I calculate the mean revenue per product. This tells you which categories actually perform best on a per-listing basis, regardless of how many items I scraped.
 
 **Opportunity Ratio:** The "Hype vs. Reality" score is a straightforward ratio: Search Interest ÷ Sales Volume. Using a ratio means we can spot supply gaps even when the raw sample count is smaller—it's not about absolute numbers, it's about proportional mismatch.
 
