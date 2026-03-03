@@ -161,7 +161,6 @@ See `requirements.txt` for full details.
 
 ## Author
 
-Sarunpat Sanguansak
-3rd Year Liberal Art Student
+**Sarunpat Sanguansak** 3rd Year Liberal Arts Student at Thammasat University
 
-*Last updated: March 2026*
+**Last updated:** March 2026
