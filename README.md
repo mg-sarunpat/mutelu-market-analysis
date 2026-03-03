@@ -11,7 +11,7 @@ This is a data-driven analysis of Thailand's spiritual e-commerce landscape. By 
 ## Key Findings
 
 ### 🎯 The Ganesha Opportunity
-Ganesha has the highest search interest (~65-70 on Google Trends) but ranks only 5th in actual revenue. That gap is the opportunity. While Lakshmi (พระแม่ลักษมี) dominates in unit sales, Ganesha (พระพิฆเนศ) shows the strongest Opportunity Score (0.00131)—suggesting demand far exceeds current marketplace supply. For sellers targeting premium segments, this is the category to watch.
+Ganesha (พระพิฆเนศ) has the highest search interest (~65-70 on Google Trends) but ranks only 5th in actual revenue. That gap is the opportunity. While Lakshmi (พระแม่ลักษมี) dominates in unit sales, Ganesha shows the strongest Opportunity Score (0.00131)—suggesting demand far exceeds current marketplace supply. For sellers targeting premium segments, this is the category to watch.
 
 ### 💰 Lucky Numbers Own the Market
 Lucky Numbers (เบอร์มงคล) make up 29.2% of total revenue (฿11.4M) despite lower search volumes. The secret? High average price points (฿479.50). These are the true cash cows—less saturated than deity items and commanding better margins.
