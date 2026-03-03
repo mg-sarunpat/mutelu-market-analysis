@@ -65,7 +65,7 @@ mutelu-analysis/
 
 **1. Clone and set up**
 ```bash
-git clone https://github.com/your-username/mutelu-market-2026.git
+git clone https://github.com/mg-sarunpat/mutelu-market-analysis.git
 cd mutelu-analysis
 pip install -r requirements.txt
 ```
@@ -77,21 +77,14 @@ python src/fetch_trend.py
 
 **3. Run the analysis pipeline**
 ```bash
-python src/cleaner.py          # Clean the data
 python src/merge_lazada.py     # Merge scraped Lazada sales
+python src/cleaner.py          # Clean the data
 python src/analysis.py         # Generate statistics
 python src/revenue_report.py   # Create visualizations
+python src/hype_vs_reality.py  # Identify hype–revenue gaps and market opportunities
 ```
 
 The results will appear in `data/processed/` and `visuals/`.
-
----
-
-## Main Visualizations
-
-**Hype vs. Reality:** A scatter plot showing search interest (X-axis) vs. actual sales revenue (Y-axis). Categories in the upper-left are your opportunities—high search, underserved supply.
-
-**Market Share by Revenue:** The ฿39.1M pie chart. Lucky Numbers and Shirts control nearly 50% of the market's total value.
 
 ---
 
@@ -129,7 +122,7 @@ The charts below tell the complete story:
 *Side-by-side breakdown: Total Revenue Market Share (left) vs. Listing Efficiency / ARPL (right).*
 
 ![Hype vs Reality](visuals/hype_vs_reality_optimized.png)
-*Figure 2: The Search Intent vs. Sales Volume Gap analysis.*
+*The Search Intent vs. Sales Volume Gap analysis.*
 
 ---
 
@@ -151,7 +144,7 @@ Here's the thing: I scraped 6–7 top-performing listings per category,so the sa
 
 ## Why This Matters
 
-The spirituality market in Thailand has always been a things — it's also a sophisticated e-commerce now. Sellers often compete on volume (especially in Lakshmi), but the data shows that margin-focused strategies (e.g., Ganesha, Lucky Numbers) are where real money lives. If you're planning on entering this market, chasing Lakshmi volume could potentially be a mistake. The smarter play is to look for a premium niche where demand is obvious but supply is thin.
+The spirituality market in Thailand has always been a thing—but today, it operates as a sophisticated e-commerce ecosystem. Sellers often compete on volume (especially in Lakshmi), but the data shows that margin-focused strategies (e.g., Ganesha, Lucky Numbers) are where real money lives. If you're planning on entering this market, chasing Lakshmi volume could potentially be a mistake. The smarter play is to look for a premium niche where demand is obvious but supply is thin.
 
 ---
 
