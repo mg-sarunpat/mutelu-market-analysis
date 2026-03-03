@@ -4,7 +4,7 @@
 
 This is a data-driven analysis of Thailand's spiritual e-commerce landscape. By combining Google Trends data with scraped data from lazada webpage, I mapped out how consumer search behavior aligns (or doesn't) with actual purchasing patterns across amulets, spiritual items, and lucky numbers.
 
-**The bottom line:** The Mutelu market hit ฿39.1M in 2025, but there's a clear supply-demand gap that most sellers are missing.
+**The bottom line:** From my scraped data, the Mutelu market hit ฿39.1M in 2025. Though, there's a clear supply-demand gap that most sellers are missing.
 
 ---
 
