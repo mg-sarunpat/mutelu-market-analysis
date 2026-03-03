@@ -97,11 +97,11 @@ Here's where the data gets interesting. Below is the complete breakdown of all �
 | Category | Market Share | Avg Rev/Listing | Strategic Role |
 |----------|:---:|:---:|---|
 | **Numbers** | 29.2% | ฿48,335 | 💎 High-Margin King |
-| **Shirts** | 20.1% | ฿34,857 | 📈 Strong Performer |
-| **Naga** | 13.5% | ฿26,186 | 🐉 Stable Growth |
+| **Shirts** | 18.7% | ฿34,857 | 📈 Strong Performer |
+| **Naga** | 12.9% | ฿26,186 | 🐉 Stable Growth |
 | **Wessuwan** | 11.2% | ฿23,604 | 🛡️ Established Niche |
 | **Lakshmi** | 9.8% | ฿19,066 | 🌊 High-Volume/Low-Margin |
-| **Ganesha** | 8.0% | ฿16,199 | 🚀 Under-Served Opportunity |
+| **Ganesha** | 10.0% | ฿16,199 | 🚀 Under-Served Opportunity |
 | **Bracelets** | 8.2% | ฿14,544 | 📉 Saturated Market |
 
 ### What This Really Means
