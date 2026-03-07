@@ -110,7 +110,7 @@ Here's where the data gets interesting. Below is the complete breakdown of all �
 
 **Ganesha Has the Biggest Gap.** High search interest, but the current ARPL (฿16,199) fall behind Naga and Wessuwan. This isn't a weak category—it's a *mismatched* one. The demand is there. The listings just aren't capturing it yet.
 
-**Lakshmi Is a Speed Trap.** Highest unit sales (~160K), but lowest revenue per listing (฿19,066). You can move volume here, but margins get squeezed fast. Only enter if you have scale or a genuine cost advantage.
+**Lakshmi Is a Speed Trap.** Highest unit sales (~160K), but its ARPL (฿19,066) is sitting at the bottom of the list. You can move volume here, but margins get squeezed fast. Only enter if you have scale or a genuine cost advantage.
 
 ---
 
